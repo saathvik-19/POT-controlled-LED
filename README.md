@@ -55,7 +55,7 @@ The aim of this project was to make a control system that could control the brig
 
 ## 💻 Source Code
 
-The primary sketch file is [`pot_led_dimmer.ino`](./pot_led_dimmer.ino).
+The primary sketch file is [`pot_led_dimmer.ino`](arduino_code_file.cpp).
 
 ```cpp
 int potPin = A0;      
