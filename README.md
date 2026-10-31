@@ -96,8 +96,8 @@ void loop() {
 
 ## 🔗 Project Links & Documentation
 
-* **Tinkercad Simulation:** [POT LED DIMMER Simulation Link](https://www.tinkercad.com)
-* **Project Documentation:** Add your Google Docs public link here.
+* **Tinkercad Simulation:** (https://www.tinkercad.com/things/evwdHRRH919-pot-led-dimmer))
+* **Project Documentation:** ([https://docs.google.com/document/d/1M03HIuds0BqCFm87-axYqyBpWJdrF8xmSoTS4mWNbrI/edit?usp=sharing]).
 
 ---
 
